@@ -1,4 +1,5 @@
 ﻿import "./byeie"; // loučíme se s IE
+import "./tecky";
 
 const mobilniGrafy = () => {
   const grafy = document.getElementsByClassName("graf");

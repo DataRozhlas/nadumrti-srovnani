@@ -95,13 +95,14 @@ fetch("https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/umrti.csv")
     const yMax = Date.parse(ld);
 
     d.forEach((r, i) => {
-      i % 2500 === 0 && i !== 0
+      i % 5000 === 0 && i !== 0
         ? pltLines.push({
             color: "#de2d26",
             value: Date.parse(r.datum),
             width: 1,
             label: {
-              text: "2500 obětí",
+              text: "5000",
+              align: "right",
               style: {
                 color: "#de2d26",
                 fontWeight: "bold",
@@ -124,7 +125,7 @@ fetch("https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/umrti.csv")
 
     Highcharts.chart("mrtvi-tecky", {
       chart: {
-        height: "100%",
+        height: "130%",
       },
       boost: {
         useGPUTranslations: true,
@@ -138,7 +139,7 @@ fetch("https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/umrti.csv")
       },
       xAxis: {
         min: 0,
-        max: 100,
+        max: 115,
         visible: false,
       },
       yAxis: {
@@ -166,7 +167,7 @@ fetch("https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/umrti.csv")
         plotLines: pltLines,
       },
       title: {
-        text: `${data.length} zemřelých na covid`,
+        text: `${data.length.toLocaleString("cs")} obětí covidu`,
       },
       legend: {
         enabled: false,
@@ -175,10 +176,10 @@ fetch("https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/umrti.csv")
         {
           type: "scatter",
           color: "#636363",
-          fillOpacity: 0.1,
+          fillOpacity: 1,
           data,
           marker: {
-            radius: 2,
+            radius: 1,
           },
           tooltip: {
             followPointer: false,

@@ -95,13 +95,14 @@ fetch("https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/umrti.csv")
     const yMax = Date.parse(ld);
 
     d.forEach((r, i) => {
-      i % 5000 === 0 && i !== 0
+      i % 1000 === 0 && i !== 0 ? console.log(r.datum) : null;
+      i % 4000 === 0 && i !== 0
         ? pltLines.push({
             color: "#de2d26",
             value: Date.parse(r.datum),
             width: 1,
             label: {
-              text: "5000",
+              text: "4000",
               align: "right",
               style: {
                 color: "#de2d26",

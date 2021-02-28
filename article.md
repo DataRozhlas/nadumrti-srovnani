@@ -47,7 +47,7 @@ Zatímco definice toho, co znamená zemřít na covid-19, případně s covidem
 
 Izraelský ekonom Ariel Karlinsky shromáždil z oficiálních zdrojů nejnovější [data o nadměrné úmrtnosti v 81 zemích včetně České republiky](https://github.com/akarlinsky/world_mortality). Jejich [analýza](https://github.com/dkobak/excess-mortality) ukázala, že v nejhůře postižených zemích jako je Peru, Mexiko, Ekvádor nebo Kazachstán se celková úmrtnost v roce 2020 zvýšila o polovinu nebo v případě Peru dokonce skoro na dvojnásobek. „Jihoamerické státy mají podstatně mladší populaci než Evropa či Severní Amerika (...), proto v nich relativní realtivní nárůst úmrtnosti byl mnohem vyšší, což zároveň značí vyšší výskyt onemocnění covid-19,” [vysvětluje Karlinsky](https://www.medrxiv.org/content/10.1101/2021.01.27.21250604v1.full.pdf+html). 
 
-<img src="img/graf-top-zeme-des.svg" alt="Graf 30 zemí, kde se v roce 2020 nejvíc zvýšila úmrtnost" class="graf">
+<img src="https://data.irozhlas.cz/nadumrti-srovnani/img/graf-top-zeme-des.svg" alt="Graf 30 zemí, kde se v roce 2020 nejvíc zvýšila úmrtnost" class="graf">
 
 V Česku podle [dat z Českého statistického úřadu](https://www.czso.cz/csu/czso/obypz_crhttps://www.czso.cz/csu/czso/obypz_cr) zemřelo v roce 2020 o 20 tisíc lidí, to je o 18 procent více než je průměr za předchozích pět let. 
 
@@ -57,7 +57,7 @@ V některých státech, například v Řecku nebo v Austrálii, se počet zemře
 
 „Celkově je nadměrný počet ve zkoumaných zemích 1,6 krát vyšší než počet oficiálně vykazovaných úmrtí na covid,“ píše Karlinsky.
 
-<img src="img/graf-excess-des.svg" alt="Graf Nadměrná úmrtí v roce 2020 ve vybraných zemích" class="graf">
+<img src="https://data.irozhlas.cz/nadumrti-srovnani/img/graf-excess-des.svg" alt="Graf Nadměrná úmrtí v roce 2020 ve vybraných zemích" class="graf">
 
 Srovnání časového průběhu nadměrných úmrtí z týdenních dat, která jednotlivé státy [posílají Eurostatu,](https://ec.europa.eu/eurostat/cache/metadata/en/demomwk_esms.htm) ukazuje, že Švédsko nebo Belgie se z nezvládnuté jarní vlny covidu před rokem poučily, takže se jim podzim a zimu podařilo zvládnout s menšími ztrátami na životech. V Německu počty zemřelých kulminovaly před koncem roku a od té doby klesají.
 

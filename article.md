@@ -51,7 +51,7 @@ Izraelský ekonom Ariel Karlinsky shromáždil z oficiálních zdrojů nejnověj
 
 <img src="https://data.irozhlas.cz/nadumrti-srovnani/img/graf-top-zeme-des.svg" alt="Graf 30 zemí, kde se v roce 2020 nejvíc zvýšila úmrtnost" class="graf">
 
-V Česku podle [dat z Českého statistického úřadu](https://www.czso.cz/csu/czso/obypz_cr) zemřelo v roce 2020 o 20 tisíc lidí, to je o 18 procent více, než je průměr za předchozích pět let. 
+V Česku podle [dat z Českého statistického úřadu](https://www.czso.cz/csu/czso/obypz_cr) zemřelo v roce 2020 o 20 tisíc lidí více, to je o 18 procent, než je průměr za předchozích pět let. 
 
 Mezi evropskými státy jde o nejhorší výsledek po Polsku (+21 %), Španělsku a Slovinsku (po zaokrouhlení shodně +20 %). Méně než v Česku se počet úmrtí zvýšil například v Belgii, Bulharsku, Rusku či v Británii. V sousedním Německu napočítali o 7 % zemřelých více, než je obvyklé, na Slovensku o 10 procent a v Rakousku o 12.
 

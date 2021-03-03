@@ -1,5 +1,5 @@
-title: "DATA: Kde se v roce 2020 nejvíc zvýšila úmrtnost? Ćesko těsně předstihlo Belgii"
-perex: "V Česku v roce 2020 zemřelo o 20 tisíc lidí více, než je průměr za posledních pět let. Znamená to úmrtnost zvýšenou o 18 procent, což je čtvrtý nejhorší výsledek mezi evropskými zeměmi. Zatímco Švédové či Belgičané se poučili z nezvládnuté jarní vlny koronaviru a ty další ustáli s menšími ztrátami na životech, v postkomunistické části Evropské unie je vývoj podle dat opačný."
+title: "DATA: Kde se v roce 2020 nejvíc zvýšila úmrtnost? Ćesko už loni zamířilo mezi nejhůř zasažené státy světa"
+perex: "V Česku v roce 2020 zemřelo o 20 tisíc lidí více, než je průměr za posledních pět let. Znamená to úmrtnost zvýšenou o 18 procent, což je čtvrtý nejhorší výsledek mezi evropskými zeměmi, ukazuje analýza izraelského ekonoma vycházející z posledních mezinárodně dostupných dat. Zatímco Švédové či Belgičané se poučili z nezvládnuté jarní vlny koronaviru a ty další ustáli s menšími ztrátami na životech, v postkomunistické části Evropské unie je vývoj podle dat opačný."
 styles: []
 libraries: ["https://cdnjs.cloudflare.com/ajax/libs/d3/6.5.0/d3.min.js", "https://cdnjs.cloudflare.com/ajax/libs/highcharts/9.0.1/highcharts.js", "https://cdnjs.cloudflare.com/ajax/libs/highcharts/9.0.1/modules/boost.min.js"]
 options: [noheader, nopic] #wide, noheader (, nopic)
@@ -51,7 +51,7 @@ Izraelský ekonom Ariel Karlinsky shromáždil z oficiálních zdrojů nejnověj
 
 <img src="https://data.irozhlas.cz/nadumrti-srovnani/img/graf-top-zeme-des.svg" alt="Graf 30 zemí, kde se v roce 2020 nejvíc zvýšila úmrtnost" class="graf">
 
-V Česku podle [dat z Českého statistického úřadu](https://www.czso.cz/csu/czso/obypz_cr) zemřelo v roce 2020 o 20 tisíc lidí více, to je o 18 procent, než je průměr za předchozích pět let. 
+V Česku podle Karlinského zemřelo v roce 2020 o 20 tisíc lidí více, to je o 18 procent, než je průměr za předchozích pět let. 
 
 Mezi evropskými státy jde o nejhorší výsledek po Polsku (+21 %), Španělsku a Slovinsku (po zaokrouhlení shodně +20 %). Méně než v Česku se počet úmrtí zvýšil například v Belgii, Bulharsku, Rusku či v Británii. V sousedním Německu napočítali o 7 % zemřelých více, než je obvyklé, na Slovensku o 10 procent a v Rakousku o 12.
 
